@@ -114,7 +114,7 @@ export default function Forshoppers() {
             <div className="fs-card__icon"><IconPhone /></div>
             <h3 className="fs-card__title">Coming Soon: Mobile App</h3>
             <p className="fs-card__body">
-              Full mobile experience launching next month for magical holiday shopping.
+              Full mobile experience launching next month for magical holiday shopping
             </p>
           </article>
         </div>
